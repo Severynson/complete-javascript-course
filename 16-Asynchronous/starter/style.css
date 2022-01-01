@@ -31,7 +31,7 @@ body {
   display: flex;
 
   font-size: 2rem;
-  opacity: 0;
+  opacity: 1;
   transition: opacity 1s;
 }
 
@@ -99,6 +99,7 @@ body {
 }
 
 .btn-country {
+  margin-top: 20px;
   border: none;
   font-size: 2rem;
   padding: 2rem 5rem;
